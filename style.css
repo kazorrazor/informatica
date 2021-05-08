@@ -1,3 +1,9 @@
+input{
+    text-transform: capitalize;  
+}
+a:hover{
+    color:blue
+}
 #bckgr {
     background: #f8f8f8;
 }
@@ -37,4 +43,14 @@ h3{
     font-family: "Times New Roman";
     width: 200px;
     height: 20px
+}
+.mailcnt{
+    font-size: 13;
+    font-family: "Times New Roman";
+    width: 200px;
+    height: 20px
+}
+.mailcnt:focus{
+    background-color: #DBECFF;
+    color: #003EAA;
 }
