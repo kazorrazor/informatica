@@ -5,6 +5,36 @@
     color: 3F3F3F;
     font-family: "Courier New";
     list-style-type: none;
-    padding: 0;
-    margin-right: 20px;
+}
+h3{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background: #eaeaea;
+}
+.shrtdscr{
+    color:#707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+.flldcsr{
+    color:#484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+.chrstrstcs{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    list-style-image: url(marker.png);
+}
+.imgbrdr{
+    border: 2px solid #ff0000;
+}
+.cntcts{
+    font-size: 13;
+    font-family: "Times New Roman";
+    width: 200px;
+    height: 20px
 }
